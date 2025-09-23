@@ -12,9 +12,6 @@ Business Insights 360 is a comprehensive Power BI dashboard designed to empower 
 - **Supply Chain View:** Optimization metrics for efficient supply chain management.
 - **Executive View:** Metrics critical for top-level decision-makers.
 
-## Live Dashboard
-Explore the live dashboard [here]()
-
 ## Key Achievements
 - **Customization:** Tailored for AtliQ Hardware's specific needs.
 - **Data Integration:** Seamless integration from Excel, CSV, and MySQL sources.
