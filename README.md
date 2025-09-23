@@ -1,7 +1,33 @@
-# Business-360-Dashboard
-This dashboard is designed as a 360° Business Insights tool, covering every key dimension of a company’s performance :
+# Business Insights 360 Power BI Project
 
-🔹 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰  – Complete Profit & Loss statements across products, customers, and geographies. Ability to drill down into Net Sales, Gross Margin, and Net Profit % over time.
-🔹 𝐒𝐚𝐥𝐞𝐬 & 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰 – Track top and bottom performing customers & products, measure sales growth, and assess profitability trends.
-🔹 𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰  – Evaluate forecast accuracy, net error, and risk profiles across categories to improve demand planning and inventory control.
-🔹 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰 – A one-stop high-level dashboard that consolidates the most critical business KPIs for decision-makers.
+Welcome to the Business Insights 360 Power BI project repository! 🚀
+
+## Overview
+Business Insights 360 is a comprehensive Power BI dashboard designed to empower AtliQ Hardware with actionable insights across Finance, Sales, Marketing, and Supply Chain. This repository houses the project files and documentation.
+
+## Features
+- **Finance View:** Detailed financial analysis, including revenue, expenses, and profit margins.
+- **Sales View:** Insights into product and customer performance.
+- **Marketing View:** Analytics to enhance marketing strategy.
+- **Supply Chain View:** Optimization metrics for efficient supply chain management.
+- **Executive View:** Metrics critical for top-level decision-makers.
+
+## Live Dashboard
+Explore the live dashboard [here]()
+
+## Key Achievements
+- **Customization:** Tailored for AtliQ Hardware's specific needs.
+- **Data Integration:** Seamless integration from Excel, CSV, and MySQL sources.
+- **Visualizations:** Engaging charts and visuals for better data understanding.
+- **Performance Optimization:** Achieved a 5% increase in report efficiency.
+
+## Getting Started
+1. Clone this repository.
+2. Open the project in Power BI Desktop.
+3. Explore the data model and visualizations.
+
+### Prerequisites
+- [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+- [DAX Studio](https://daxstudio.org/)
+
+# Explore, Analyze, Decide! 📊🔍🚀
